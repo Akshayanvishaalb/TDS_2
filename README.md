@@ -1,6 +1,6 @@
 # ⚡ Data Analyst Agent — Your AI-Powered Data Companion  
 > Smarter, faster, and more intuitive analysis of your datasets using **Generative AI + Python magic.**  
-> Repository: *https://github.com/kritiitm/tds_proj_2/*
+> Repository: *https://github.com/Akshayanvishaalb/TDS_2/*
 
 ---
 
@@ -128,3 +128,4 @@ Licensed under **MIT** – free for personal & commercial use.
 
 
   
+
